@@ -1,0 +1,12 @@
+{
+  "hosting":
+  {
+    "target": "recette2021easy",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

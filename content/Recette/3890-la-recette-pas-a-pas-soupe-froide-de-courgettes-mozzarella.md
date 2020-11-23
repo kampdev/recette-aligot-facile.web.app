@@ -1,0 +1,80 @@
+---
+description: "La Recette Pas à Pas Soupe froide de courgettes - mozzarella"
+title: "La Recette Pas à Pas Soupe froide de courgettes - mozzarella"
+slug: 3890-la-recette-pas-a-pas-soupe-froide-de-courgettes-mozzarella
+date: 2020-06-18T08:21:24.566Z
+image: https://img-global.cpcdn.com/recipes/1d31960b2d5bbefa/751x532cq70/soupe-froide-de-courgettes-mozzarella-photo-principale-de-la-recette.jpg
+thumbnail: https://img-global.cpcdn.com/recipes/1d31960b2d5bbefa/751x532cq70/soupe-froide-de-courgettes-mozzarella-photo-principale-de-la-recette.jpg
+cover: https://img-global.cpcdn.com/recipes/1d31960b2d5bbefa/751x532cq70/soupe-froide-de-courgettes-mozzarella-photo-principale-de-la-recette.jpg
+author: Bertie Thomas
+ratingvalue: 4.5
+reviewcount: 8
+recipeingredient:
+- " courgettes moyennes"
+- " dail"
+- " Quelques feuilles de basilic"
+- " Huile dolive sel"
+- " Graines"
+- " boule de mozzarella"
+recipeinstructions:
+- "Couper l’ail en 4 morceaux. Laver les courgettes, retirer les extrémités et les couper en rondelles. Faire rissoler l’ail dans une casserole avec 3 cs d’huile d’olive. Dès qu’il colore ajouter les courgettes et cuire deux minutes. Baisser le feu (moyen), couvrir à peine d’eau, saler et ajouter quelques feuilles de basilic. Porter à petite ébullition pendant 5 minutes."
+- "Passer ensuite au mixeur. Corriger de sel puis garder au réfrigérateur plusieurs heures (je l&#39;ai faite le midi pour le soir)  Peu avant de servir couper la mozzarella en dès, et ajouter quelques graines."
+categories:
+- Resep
+tags:
+- soupe
+- froide
+- de
+
+katakunci: soupe froide de 
+nutrition: 277 calories
+recipecuisine: Indonesian
+preptime: "PT22M"
+cooktime: "PT34M"
+recipeyield: "2"
+recipecategory: Lunch
+
+---
+
+
+![Soupe froide de courgettes - mozzarella](https://img-global.cpcdn.com/recipes/1d31960b2d5bbefa/751x532cq70/soupe-froide-de-courgettes-mozzarella-photo-principale-de-la-recette.jpg)
+
+Si vous cherchez une idée de recettes à cuisiner aujourd'hui, ne cherchez plus! Nous vous fournissons uniquement le meilleur soupe froide de courgettes - mozzarella ici. Nous avons un grand nombre de recette à tester.
+
+En général, les gens ont peur de commencer à cuisiner soupe froide de courgettes - mozzarella de peur que la nourriture obtenue ne soit pas délicieuse. Il y a plusieurs choses qui affectent la qualité gustative de soupe froide de courgettes - mozzarella! En partant de la qualité des ustensiles de cuisine, assurez-vous toujours d'utiliser de bons ustensiles de cuisine toujours propres. De plus, la qualité des ingrédients utilisés affecte également le goût, utilisez donc toujours des ingrédients frais. Ensuite, multipliez la pratique pour reconnaître les différentes saveurs de la cuisine, profitez de chaque étape de la cuisine avec tout votre cœur, car la sensation d'être enthousiaste, calme et pas pressé affecte aussi le goût de la cuisine!
+
+<!--inarticleads1-->
+
+Vous pouvez avoir soupe froide de courgettes - mozzarella en utilisant 6 Ingrédients et 2 pas. Voici comment vous cuire cette.
+
+##### Ingrédients de soupe froide de courgettes - mozzarella :
+
+1. Vous avez besoin  courgettes moyennes
+1. Vous avez besoin  d&#39;ail
+1. Utilisation  Quelques feuilles de basilic
+1. Fournir  Huile d&#39;olive, sel
+1. Préparer  Graines
+1. Utilisation  boule de mozzarella
+
+
+
+
+<!--inarticleads2-->
+
+##### Soupe froide de courgettes - mozzarella instructions :
+
+1. Couper l’ail en 4 morceaux. Laver les courgettes, retirer les extrémités et les couper en rondelles. Faire rissoler l’ail dans une casserole avec 3 cs d’huile d’olive. Dès qu’il colore ajouter les courgettes et cuire deux minutes. Baisser le feu (moyen), couvrir à peine d’eau, saler et ajouter quelques feuilles de basilic. Porter à petite ébullition pendant 5 minutes.
+1. Passer ensuite au mixeur. Corriger de sel puis garder au réfrigérateur plusieurs heures (je l&#39;ai faite le midi pour le soir) -  - Peu avant de servir couper la mozzarella en dès, et ajouter quelques graines.
+
+
+
+
+<!--inarticleads1-->
+
+<p>
+Puisque vous avez lu la recette de Soupe froide de courgettes - mozzarella, c'est le moment pour vous de vous diriger vers la cuisine et de préparer de bons plats! Gardez à l'esprit que la cuisine n'est pas une capacité qui peut être à 100% dès le début. La méthode est nécessaire pour maîtriser l'art de la cuisine.
+</p>
+
+<p>
+<i>Si vous trouvez cette Soupe froide de courgettes - mozzarella recette utile, partagez-la avec vos amis proches ou votre famille, merci et bonne chance.</i>
+</p>
