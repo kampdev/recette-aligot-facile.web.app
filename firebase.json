@@ -1,7 +1,7 @@
 {
   "hosting":
   {
-    "target": "recettecrepesansoeuf",
+    "target": "recettecreperapide",
     "public": "public",
     "ignore": [
       "firebase.json",
