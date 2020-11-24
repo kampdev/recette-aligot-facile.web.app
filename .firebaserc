@@ -5,8 +5,8 @@
   "targets": {
     "navertrends": {
       "hosting": {
-        "naver-trends": [
-          "naver-trends"
+        "naver-trends-1": [
+          "naver-trends-1"
         ]
       }
     }
