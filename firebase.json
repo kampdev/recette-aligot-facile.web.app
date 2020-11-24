@@ -1,7 +1,7 @@
 {
   "hosting":
   {
-    "target": "recettecrepethermomix",
+    "target": "recettecrepelegere",
     "public": "public",
     "ignore": [
       "firebase.json",
