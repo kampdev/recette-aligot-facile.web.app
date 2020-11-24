@@ -5,8 +5,8 @@
   "targets": {
     "cookpadfr": {
       "hosting": {
-        "recette-crepe-a-la-biere": [
-          "recette-crepe-a-la-biere"
+        "recette-crepe-au-sarrasin": [
+          "recette-crepe-au-sarrasin"
         ]
       }
     }
