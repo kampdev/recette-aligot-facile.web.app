@@ -3,7 +3,7 @@
     "default": "navertrends"
   },
   "targets": {
-    "cookpadfr": {
+    "navertrends": {
       "hosting": {
         "naver-trends": [
           "naver-trends"
