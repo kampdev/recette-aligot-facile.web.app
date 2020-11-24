@@ -5,8 +5,8 @@
   "targets": {
     "cookpadfr": {
       "hosting": {
-        "recette-crepe-au-sarrasin": [
-          "recette-crepe-au-sarrasin"
+        "recette-crepe-au-jambon": [
+          "recette-crepe-au-jambon"
         ]
       }
     }
