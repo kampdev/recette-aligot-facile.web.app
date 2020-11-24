@@ -5,8 +5,8 @@
   "targets": {
     "cookpadfr": {
       "hosting": {
-        "recettecreperapide": [
-          "recettecreperapide"
+        "recettecrepethermomix": [
+          "recettecrepethermomix"
         ]
       }
     }
