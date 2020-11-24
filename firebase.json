@@ -1,7 +1,7 @@
 {
   "hosting":
   {
-    "target": "recettecrepelegere",
+    "target": "recette-crepe-a-la-biere",
     "public": "public",
     "ignore": [
       "firebase.json",
