@@ -1,6 +1,6 @@
-baseURL = "https://recette-crepe-au-rhum.web.app/"
+baseURL = "https://naver-trends.web.app/"
 languageCode = "en-us"
-title = "Meilleur du Chef"
+title = "Naver"
 theme = "x"
 sectionPagesMenu = "main"
 
@@ -12,9 +12,9 @@ sectionPagesMenu = "main"
   post = "Recette"
 
 [params]
-  description = "Meilleure Collection de Recettes"
-  topdescription = "Meilleure Collection de Recettes"
-  toptitle = "Meilleur du Chef"
+  description = "Naver trends Post"
+  topdescription = "Naver trends Post"
+  toptitle = "Naver trends"
   contentBackgroundColor = "#fff"
   contentLinkColor = "#007bff"
   contentLinkHoverColor = "#0056b3"
@@ -67,7 +67,7 @@ sectionPagesMenu = "main"
 [author]
     name = "Admin"
     homepage = "https://xx.com/"
-    bio = "Véritable Amateur de Nourriture"
+    bio = "Naver trends Post"
     image = "https://i.imgur.com/qNQv8nK.jpg"
 
 [markup]

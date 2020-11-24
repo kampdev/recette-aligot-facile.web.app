@@ -1,12 +1,12 @@
 {
   "projects": {
-    "default": "cookpadfr"
+    "default": "navertrends"
   },
   "targets": {
     "cookpadfr": {
       "hosting": {
-        "recette-crepe-au-rhum": [
-          "recette-crepe-au-rhum"
+        "naver-trends": [
+          "naver-trends"
         ]
       }
     }

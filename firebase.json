@@ -1,7 +1,7 @@
 {
   "hosting":
   {
-    "target": "recette-crepe-au-rhum",
+    "target": "naver-trends",
     "public": "public",
     "ignore": [
       "firebase.json",
