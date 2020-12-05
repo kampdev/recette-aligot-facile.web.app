@@ -5,8 +5,8 @@
   "targets": {
     "resepfr1": {
       "hosting": {
-        "recette-aligot-auvergne": [
-          "recette-aligot-auvergne"
+        "recette-aligot-accompagnement": [
+          "recette-aligot-accompagnement"
         ]
       }
     }
