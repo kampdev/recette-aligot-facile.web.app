@@ -5,8 +5,8 @@
   "targets": {
     "resepfr1": {
       "hosting": {
-        "recette-aligot-saucisse": [
-          "recette-aligot-saucisse"
+        "recette-aligot-cantal": [
+          "recette-aligot-cantal"
         ]
       }
     }
