@@ -5,8 +5,8 @@
   "targets": {
     "resepfr1": {
       "hosting": {
-        "recette-aligot-aubrac": [
-          "recette-aligot-aubrac"
+        "recette-aligot-aveyron": [
+          "recette-aligot-aveyron"
         ]
       }
     }
