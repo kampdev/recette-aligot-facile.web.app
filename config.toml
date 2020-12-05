@@ -1,6 +1,6 @@
-baseURL = "https://naver-trends-1.web.app/"
+baseURL = "https://recette-aligot-2021.web.app/"
 languageCode = "en-us"
-title = "Naver"
+title = "Meilleur du Chef"
 theme = "x"
 sectionPagesMenu = "main"
 
@@ -12,9 +12,9 @@ sectionPagesMenu = "main"
   post = "Recette"
 
 [params]
-  description = "Naver trends Post"
-  topdescription = "Naver trends Post"
-  toptitle = "Naver trends"
+  description = "Meilleure Collection de Recettes"
+  topdescription = "Meilleure Collection de Recettes"
+  toptitle = "Meilleur du Chef"
   contentBackgroundColor = "#fff"
   contentLinkColor = "#007bff"
   contentLinkHoverColor = "#0056b3"
@@ -67,7 +67,7 @@ sectionPagesMenu = "main"
 [author]
     name = "Admin"
     homepage = "https://xx.com/"
-    bio = "Naver trends Post"
+    bio = "Véritable Amateur de Nourriture"
     image = "https://i.imgur.com/qNQv8nK.jpg"
 
 [markup]

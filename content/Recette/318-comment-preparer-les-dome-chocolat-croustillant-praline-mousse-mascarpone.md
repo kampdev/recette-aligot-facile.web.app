@@ -1,0 +1,144 @@
+---
+description: "Comment Préparer Les Dôme chocolat, croustillant praliné, mousse mascarpone"
+title: "Comment Préparer Les Dôme chocolat, croustillant praliné, mousse mascarpone"
+slug: 318-comment-preparer-les-dome-chocolat-croustillant-praline-mousse-mascarpone
+date: 2020-08-26T16:29:10.918Z
+image: https://img-global.cpcdn.com/recipes/13abc73fd6e188f4/751x532cq70/dome-chocolat-croustillant-praline-mousse-mascarpone-photo-principale-de-la-recette.jpg
+thumbnail: https://img-global.cpcdn.com/recipes/13abc73fd6e188f4/751x532cq70/dome-chocolat-croustillant-praline-mousse-mascarpone-photo-principale-de-la-recette.jpg
+cover: https://img-global.cpcdn.com/recipes/13abc73fd6e188f4/751x532cq70/dome-chocolat-croustillant-praline-mousse-mascarpone-photo-principale-de-la-recette.jpg
+author: Nelle Walton
+ratingvalue: 5
+reviewcount: 5
+recipeingredient:
+- " Le Dme"
+- "150 g chocolat noir ou lait"
+- "60 g crme frache possible de prendre de la lgre"
+- " Le biscuit"
+- "2 oeufs"
+- "90 g sucre"
+- "90 g farine"
+- "1 cac dextrait de vanille"
+- " La mousse mascarpone"
+- "25 cl crme liquide entire bien froide"
+- "100 g mascarpone"
+- "3 cas de sucre en poudre"
+- "1 cas dextrait de vanille"
+- " Le croustillant pralin"
+- "120 g pralinoise"
+- "20 g pralin"
+- "50 g biscuits gavottes"
+recipeinstructions:
+- "Le Dôme :Mettre dans bol mixeur 150g de chocolat noir en morceaux puis faire quelques pulsions turbo et ajouter 60g de crème fraîche puis réglez 5min/50°/vitesse 2."
+- "Repartir équitablement le chocolat dans les alvéoles du moule dôme en silicone puis avec un pinceau étaler le chocolat en remontant sur les bords."
+- "Placez les moules au congélateur."
+- "Le biscuit"
+- "Mettre dans le bol 2 oeufs et 90g de sucre puis mélanger 2min/vitesse3"
+- "Ajouter 90g de farine et une cuillère à café d&#39;extrait de vanille puis mélanger 40sec/vit4."
+- "Verser la préparation dans une plaque à pâtisserie recouverte de papier sulfurisé puis étaler à l’aide d’une spatule."
+- "Préchauffer le four à 200°C puis enfourner 7 à 10 minutes."
+- "Retirer le gâteau puis démouler et laisser refroidir. Une fois froid, découper le biscuit en disques à l’aide d’un emporte-pièce (le même diamètre des moules)"
+- "La crème au mascarpone"
+- "Laver le bol à l’eau froide puis séchez-le. Insérer le fouet et verser 25cl de crème froide puis fouetter 1min30/vitesse4. Réserver dans un récipient."
+- "Toujours avec le fouet mettre dans le bol 100g de mascarpone, 3 cuillères à soupe de sucre et une cuillère à soupe d’extrait de vanille puis mélanger 1min/vitesse4."
+- "Incorporer la crème mascarpone à la crème fouetté délicatement en mélangeant à l’aide d’une spatule."
+- "Le croustillant praliné"
+- "Rincer le bol"
+- "Sans le fouet, mettre 120g de pralinoise dans le bol mixeur puis régler 4min/50°/ vitesse 2."
+- "Ajouter 20g de pralin et 50g de biscuits gavottes puis mélangez 15sec/vitesse 4."
+- "Le montage"
+- "Retirer les moules du congélateur puis remplissez-les de mousse mascarpone à la moitié."
+- "Ensuite déposer une couche de croustillant et recouvrir encore de mousse de mascarpone."
+- "Poser le biscuit puis appuyez un peu pour l’assembler à la mousse."
+- "Mettez ensuite les moules au congélateur pendant 2 heures"
+- "Démouler et réserver les dôme au chocolat et au croustillant au réfrigérateur pendant environ 2 heures puis servez."
+categories:
+- Resep
+tags:
+- dme
+- chocolat
+- croustillant
+
+katakunci: dme chocolat croustillant 
+nutrition: 136 calories
+recipecuisine: Indonesian
+preptime: "PT11M"
+cooktime: "PT43M"
+recipeyield: "2"
+recipecategory: Lunch
+
+---
+
+
+![Dôme chocolat, croustillant praliné, mousse mascarpone](https://img-global.cpcdn.com/recipes/13abc73fd6e188f4/751x532cq70/dome-chocolat-croustillant-praline-mousse-mascarpone-photo-principale-de-la-recette.jpg)
+
+Si vous cherchez des recette à base de dôme chocolat, croustillant praliné, mousse mascarpone ?? ne cherchez plus! Nous vous fournissons uniquement la recette parfaite dôme chocolat, croustillant praliné, mousse mascarpone ici. Nous avons un grand nombre de recette à tester.
+
+Lorsque vous comprenez les principes de base de la cuisine, cela peut être une expérience aussi gratifiante que gratifiante pour créer un plat ou un plat tout simplement délicieux. Les odeurs de votre maison ainsi que les visages des personnes avec qui vous la partagez sont inestimables. Nous espérons que cette recette de <strong> Dôme chocolat, croustillant praliné, mousse mascarpone </strong> vous donnera certainement une idée pour que vous deveniez un cuisinier remarquable.
+
+<!--inarticleads1-->
+
+À faire dôme chocolat, croustillant praliné, mousse mascarpone tue seul besion 17 Ingrédients et 23 pas. Voici comment vous faire il.
+
+##### Ingrédients de dôme chocolat, croustillant praliné, mousse mascarpone :
+
+1. Utilisation  Le Dôme
+1. Fournir 150 g chocolat noir ou lait
+1. Fournir 60 g crème fraîche (possible de prendre de la légère)
+1. Vous devez vous préparer  Le biscuit
+1. Vous devez vous préparer 2 oeufs
+1. Vous avez besoin 90 g sucre
+1. Préparer 90 g farine
+1. Préparer 1 cac d&#39;extrait de vanille
+1. Vous avez besoin  La mousse mascarpone
+1. Préparer 25 cl crème liquide entière bien froide
+1. Vous devez vous préparer 100 g mascarpone
+1. Vous avez besoin 3 cas de sucre en poudre
+1. Fournir 1 cas d&#39;extrait de vanille
+1. Fournir  Le croustillant praliné
+1. Vous devez vous préparer 120 g pralinoise
+1. Fournir 20 g pralin
+1. Vous avez besoin 50 g biscuits gavottes
+
+
+Garnissez d&#39;une cuillère à soupe de préparation &#34;coeur croustillant praliné&#34;, recouvrez de mousse au chocolat. Dôme chocolat blanc mousse au mascarpone et fraises. Le but du jeu est de casser la coque en chocolat blanc pour pouvoir manger la délicieuse mousse au mascarpone et son cœur de fraise. miam miam. Dôme au chocolat et son coeur croustillant praliné. 
+
+<!--inarticleads2-->
+
+##### Dôme chocolat, croustillant praliné, mousse mascarpone pas à pas :
+
+1. Le Dôme :Mettre dans bol mixeur 150g de chocolat noir en morceaux puis faire quelques pulsions turbo et ajouter 60g de crème fraîche puis réglez 5min/50°/vitesse 2.
+1. Repartir équitablement le chocolat dans les alvéoles du moule dôme en silicone puis avec un pinceau étaler le chocolat en remontant sur les bords.
+1. Placez les moules au congélateur.
+1. Le biscuit
+1. Mettre dans le bol 2 oeufs et 90g de sucre puis mélanger 2min/vitesse3
+1. Ajouter 90g de farine et une cuillère à café d&#39;extrait de vanille puis mélanger 40sec/vit4.
+1. Verser la préparation dans une plaque à pâtisserie recouverte de papier sulfurisé puis étaler à l’aide d’une spatule.
+1. Préchauffer le four à 200°C puis enfourner 7 à 10 minutes.
+1. Retirer le gâteau puis démouler et laisser refroidir. Une fois froid, découper le biscuit en disques à l’aide d’un emporte-pièce (le même diamètre des moules)
+1. La crème au mascarpone
+1. Laver le bol à l’eau froide puis séchez-le. - Insérer le fouet et verser 25cl de crème froide puis fouetter 1min30/vitesse4. Réserver dans un récipient.
+1. Toujours avec le fouet mettre dans le bol 100g de mascarpone, 3 cuillères à soupe de sucre et une cuillère à soupe d’extrait de vanille puis - mélanger 1min/vitesse4.
+1. Incorporer la crème mascarpone à la crème fouetté délicatement en mélangeant à l’aide d’une spatule.
+1. Le croustillant praliné
+1. Rincer le bol
+1. Sans le fouet, mettre 120g de pralinoise dans le bol mixeur puis régler 4min/50°/ vitesse 2.
+1. Ajouter 20g de pralin et 50g de biscuits gavottes puis mélangez 15sec/vitesse 4.
+1. Le montage
+1. Retirer les moules du congélateur puis remplissez-les de mousse mascarpone à la moitié.
+1. Ensuite déposer une couche de croustillant et recouvrir encore de mousse de mascarpone.
+1. Poser le biscuit puis appuyez un peu pour l’assembler à la mousse.
+1. Mettez ensuite les moules au congélateur pendant 2 heures
+1. Démouler et réserver les dôme au chocolat et au croustillant au réfrigérateur pendant environ 2 heures puis servez.
+
+
+Qui veut un petit dessert au chocolat??? Je vois que vous êtes nombreux à lever le doigt (Hi hi hi hi!!!). Alors je vous présente ma toute nouvelle recette que j&#39;ai réalisée pour le Nouvel An : Dôme au chocolat &amp; son coeur praliné croustillant. La recette par Petit Bec Gourmand. Encore un dessert pour les inconditionnels du chocolat et je pense que je vais faire des heureux ;-) Il s&#39;agit d&#39;un dôme de mousse légère au chocolat, nappé d&#39;un glaçage miroir, le tout déposé sur un palet croustillant au praliné et au chocolat au lait. 
+
+<!--inarticleads1-->
+
+<p>
+Puisque vous avez atteint la fin de cette recette de Dôme chocolat, croustillant praliné, mousse mascarpone, vous testez maintenant des recettes et appliquez-les ainsi que de vous réjouir. Vous ne savez jamais - vous avez simplement trouvé un nouvel emploi.
+</p>
+
+<p>
+<i>Si vous trouvez cette Dôme chocolat, croustillant praliné, mousse mascarpone recette précieuse, partagez-la avec vos amis ou votre famille, merci et bonne chance.</i>
+</p>

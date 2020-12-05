@@ -1,7 +1,7 @@
 {
   "hosting":
   {
-    "target": "naver-trends-1",
+    "target": "resepfr1",
     "public": "public",
     "ignore": [
       "firebase.json",

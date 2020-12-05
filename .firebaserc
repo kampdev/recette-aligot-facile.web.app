@@ -1,12 +1,12 @@
 {
   "projects": {
-    "default": "navertrends"
+    "default": "resepfr1"
   },
   "targets": {
-    "navertrends": {
+    "resepfr1": {
       "hosting": {
-        "naver-trends-1": [
-          "naver-trends-1"
+        "recette-aligot-2021": [
+          "recette-aligot-2021"
         ]
       }
     }
