@@ -1,7 +1,7 @@
 {
   "hosting":
   {
-    "target": "recette-aligot-cookeo",
+    "target": "recette-aligot-traditionnel",
     "public": "public",
     "ignore": [
       "firebase.json",
