@@ -5,8 +5,8 @@
   "targets": {
     "resepfr1": {
       "hosting": {
-        "recette-aligot-au-cookeo": [
-          "recette-aligot-au-cookeo"
+        "recette-aligot-bras": [
+          "recette-aligot-bras"
         ]
       }
     }
