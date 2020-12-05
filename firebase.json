@@ -1,7 +1,7 @@
 {
   "hosting":
   {
-    "target": "recette-aligot-au-cantal",
+    "target": "recette-aligot-au-cookeo",
     "public": "public",
     "ignore": [
       "firebase.json",
