@@ -5,8 +5,8 @@
   "targets": {
     "resepfr1": {
       "hosting": {
-        "recette-aligot-bras": [
-          "recette-aligot-bras"
+        "recette-aligot-blog": [
+          "recette-aligot-blog"
         ]
       }
     }

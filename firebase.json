@@ -1,7 +1,7 @@
 {
   "hosting":
   {
-    "target": "recette-aligot-bras",
+    "target": "recette-aligot-blog",
     "public": "public",
     "ignore": [
       "firebase.json",

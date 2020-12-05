@@ -1,4 +1,4 @@
-baseURL = "https://recette-aligot-bras.web.app/"
+baseURL = "https://recette-aligot-blog.web.app/"
 languageCode = "en-us"
 title = "Meilleur du Chef"
 theme = "x"
