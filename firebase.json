@@ -1,7 +1,7 @@
 {
   "hosting":
   {
-    "target": "resepfr1",
+    "target": "recette-aligot-2021",
     "public": "public",
     "ignore": [
       "firebase.json",
