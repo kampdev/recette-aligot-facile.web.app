@@ -1,7 +1,7 @@
 {
   "hosting":
   {
-    "target": "recette-aligot-2021",
+    "target": "recette-aligot-thermomix",
     "public": "public",
     "ignore": [
       "firebase.json",

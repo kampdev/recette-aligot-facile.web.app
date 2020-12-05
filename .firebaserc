@@ -5,8 +5,8 @@
   "targets": {
     "resepfr1": {
       "hosting": {
-        "recette-aligot-2021": [
-          "recette-aligot-2021"
+        "recette-aligot-thermomix": [
+          "recette-aligot-thermomix"
         ]
       }
     }
