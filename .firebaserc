@@ -5,8 +5,8 @@
   "targets": {
     "resepfr1": {
       "hosting": {
-        "recette-aligot-aveyron": [
-          "recette-aligot-aveyron"
+        "recette-aligot-cookeo": [
+          "recette-aligot-cookeo"
         ]
       }
     }
