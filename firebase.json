@@ -1,7 +1,7 @@
 {
   "hosting":
   {
-    "target": "recette-aligot-de-laubrac",
+    "target": "recette-aligot-dauvergne",
     "public": "public",
     "ignore": [
       "firebase.json",
