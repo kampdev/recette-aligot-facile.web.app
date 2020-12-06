@@ -5,8 +5,8 @@
   "targets": {
     "resepfr1": {
       "hosting": {
-        "recette-aligot-cookomix": [
-          "recette-aligot-cookomix"
+        "recette-aligot-carnet-de-julie": [
+          "recette-aligot-carnet-de-julie"
         ]
       }
     }

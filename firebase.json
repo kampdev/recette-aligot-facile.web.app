@@ -1,7 +1,7 @@
 {
   "hosting":
   {
-    "target": "recette-aligot-cookomix",
+    "target": "recette-aligot-carnet-de-julie",
     "public": "public",
     "ignore": [
       "firebase.json",
