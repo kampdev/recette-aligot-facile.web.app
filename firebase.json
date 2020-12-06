@@ -1,7 +1,7 @@
 {
   "hosting":
   {
-    "target": "recette-aligot-en-sachet",
+    "target": "recette-aligot-et-saucisse",
     "public": "public",
     "ignore": [
       "firebase.json",
