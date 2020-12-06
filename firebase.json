@@ -1,7 +1,7 @@
 {
   "hosting":
   {
-    "target": "recette-aligot-emmental",
+    "target": "recette-aligot-en-sachet",
     "public": "public",
     "ignore": [
       "firebase.json",
