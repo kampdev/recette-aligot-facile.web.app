@@ -5,8 +5,8 @@
   "targets": {
     "resepfr1": {
       "hosting": {
-        "recette-aligot-cyril-lignac": [
-          "recette-aligot-cyril-lignac"
+        "recette-aligot-cooking-chef": [
+          "recette-aligot-cooking-chef"
         ]
       }
     }

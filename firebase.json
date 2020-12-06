@@ -1,7 +1,7 @@
 {
   "hosting":
   {
-    "target": "recette-aligot-cyril-lignac",
+    "target": "recette-aligot-cooking-chef",
     "public": "public",
     "ignore": [
       "firebase.json",
