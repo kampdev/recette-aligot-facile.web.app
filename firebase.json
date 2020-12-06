@@ -1,7 +1,7 @@
 {
   "hosting":
   {
-    "target": "recette-aligot-enceinte",
+    "target": "recette-aligot-2-personnes",
     "public": "public",
     "ignore": [
       "firebase.json",
