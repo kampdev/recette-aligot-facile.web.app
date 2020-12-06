@@ -5,8 +5,8 @@
   "targets": {
     "resepfr1": {
       "hosting": {
-        "recette-aligot-michel-bras": [
-          "recette-aligot-michel-bras"
+        "recette-aligot-vin-blanc": [
+          "recette-aligot-vin-blanc"
         ]
       }
     }

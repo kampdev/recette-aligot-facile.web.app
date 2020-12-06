@@ -1,7 +1,7 @@
 {
   "hosting":
   {
-    "target": "recette-aligot-michel-bras",
+    "target": "recette-aligot-vin-blanc",
     "public": "public",
     "ignore": [
       "firebase.json",
