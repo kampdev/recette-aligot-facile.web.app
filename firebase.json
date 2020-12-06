@@ -1,7 +1,7 @@
 {
   "hosting":
   {
-    "target": "recette-aligot-de-laubrac2021",
+    "target": "recette-aligot-du-cantal",
     "public": "public",
     "ignore": [
       "firebase.json",
