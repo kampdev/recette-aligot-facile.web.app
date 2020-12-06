@@ -1,7 +1,7 @@
 {
   "hosting":
   {
-    "target": "recette-daligot",
+    "target": "recette-daligot-a-la",
     "public": "public",
     "ignore": [
       "firebase.json",
