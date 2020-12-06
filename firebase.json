@@ -1,7 +1,7 @@
 {
   "hosting":
   {
-    "target": "recette-aligot-vin-blanc",
+    "target": "recette-boeuf-aligot",
     "public": "public",
     "ignore": [
       "firebase.json",
