@@ -5,8 +5,8 @@
   "targets": {
     "resepfr2": {
       "hosting": {
-        "recette-daligot-a-la": [
-          "recette-daligot-a-la"
+        "recette-aligot-emmental": [
+          "recette-aligot-emmental"
         ]
       }
     }
