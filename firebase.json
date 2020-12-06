@@ -1,7 +1,7 @@
 {
   "hosting":
   {
-    "target": "recette-aligot-carnet-de-julie",
+    "target": "recette-aligot-de-laubrac",
     "public": "public",
     "ignore": [
       "firebase.json",
