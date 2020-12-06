@@ -5,8 +5,8 @@
   "targets": {
     "resepfr2": {
       "hosting": {
-        "recette-aligot-2-personnes": [
-          "recette-aligot-2-personnes"
+        "recette-daligot-en-video": [
+          "recette-daligot-en-video"
         ]
       }
     }

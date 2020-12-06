@@ -1,7 +1,7 @@
 {
   "hosting":
   {
-    "target": "recette-aligot-2-personnes",
+    "target": "recette-daligot-en-video",
     "public": "public",
     "ignore": [
       "firebase.json",
