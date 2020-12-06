@@ -5,8 +5,8 @@
   "targets": {
     "resepfr1": {
       "hosting": {
-        "recette-aligot-dauvergne": [
-          "recette-aligot-dauvergne"
+        "recette-aligot-ducasse": [
+          "recette-aligot-ducasse"
         ]
       }
     }

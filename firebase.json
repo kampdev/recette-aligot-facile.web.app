@@ -1,7 +1,7 @@
 {
   "hosting":
   {
-    "target": "recette-aligot-dauvergne",
+    "target": "recette-aligot-ducasse",
     "public": "public",
     "ignore": [
       "firebase.json",
