@@ -1,7 +1,7 @@
 {
   "hosting":
   {
-    "target": "recette-boeuf-aligot",
+    "target": "recette-a-base-aligot",
     "public": "public",
     "ignore": [
       "firebase.json",
