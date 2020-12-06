@@ -1,7 +1,7 @@
 {
   "hosting":
   {
-    "target": "recette-aligot-daubrac",
+    "target": "recette-daligot",
     "public": "public",
     "ignore": [
       "firebase.json",

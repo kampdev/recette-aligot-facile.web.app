@@ -1,12 +1,12 @@
 {
   "projects": {
-    "default": "resepfr1"
+    "default": "resepfr2"
   },
   "targets": {
-    "resepfr1": {
+    "resepfr2": {
       "hosting": {
-        "recette-aligot-daubrac": [
-          "recette-aligot-daubrac"
+        "recette-daligot": [
+          "recette-daligot"
         ]
       }
     }
