@@ -1,7 +1,7 @@
 {
   "hosting":
   {
-    "target": "recette-aligot-en-anglais",
+    "target": "recette-aligot-express",
     "public": "public",
     "ignore": [
       "firebase.json",

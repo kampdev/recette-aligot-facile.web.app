@@ -5,8 +5,8 @@
   "targets": {
     "resepfr2": {
       "hosting": {
-        "recette-aligot-en-anglais": [
-          "recette-aligot-en-anglais"
+        "recette-aligot-express": [
+          "recette-aligot-express"
         ]
       }
     }
